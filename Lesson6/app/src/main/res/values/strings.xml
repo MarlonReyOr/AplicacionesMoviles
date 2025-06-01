@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lesson6</string>
+
+    <!-- <string name="app_name" tools:override="true">My App</string> -->
+
+    <!-- <string name="app_name" tools:override="true">My App</string> -->
+
+    <!-- <string name="app_name" tools:override="true">My App</string> -->
+
+    <!-- <string name="app_name" tools:override="true">My App</string> -->
+
+    <!-- <string name="app_name">Library B App</string> -->
+
+    <!-- <string name="app_name">Library A App</string> -->
+</resources>
