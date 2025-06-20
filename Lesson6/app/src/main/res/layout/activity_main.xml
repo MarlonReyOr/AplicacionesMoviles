@@ -10,8 +10,8 @@
     tools:ignore="MissingClass">
 
     <FrameLayout
-        android:layout_width="124dp"
-        android:layout_height="701dp"
+        android:layout_width="123dp"
+        android:layout_height="731dp"
         android:background="#CE93D8"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
